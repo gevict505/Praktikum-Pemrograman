@@ -1,0 +1,8 @@
+dev-requirements.txt
+pyproject.toml
+belajar_py.egg-info/PKG-INFO
+belajar_py.egg-info/SOURCES.txt
+belajar_py.egg-info/dependency_links.txt
+belajar_py.egg-info/requires.txt
+belajar_py.egg-info/top_level.txt
+tests/test_belajar-py.py
