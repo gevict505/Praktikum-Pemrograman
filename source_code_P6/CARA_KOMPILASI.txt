@@ -1,0 +1,8 @@
+Kompilasi satu berkas (contoh):
+  gcc -std=c99 -Wall -Wextra -o t01_kabisat t01_kabisat.c -lm
+Jalankan:
+  ./t01_kabisat        (Linux/macOS)
+  .\t01_kabisat.exe    (Windows)
+
+Kompilasi semua berkas sekaligus (Linux/macOS/Git Bash):
+  for f in *.c; do gcc -std=c99 -Wall -Wextra -o "${f%.c}" "$f" -lm && echo "OK  $f"; done

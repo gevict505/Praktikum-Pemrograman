@@ -22,7 +22,7 @@ int main() {
         return 1;
     }
 
-    printf("Tahun %d %s Tahun kabisat", input, (kabisat(input)>0) ? "adalah" : "BUKAN");
+    printf("Tahun %d %s Tahun kabisat", input, (kabisat(input)>0) ? "adalah" : "bukan");
 
     return 0;
-}
+}   

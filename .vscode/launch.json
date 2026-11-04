@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/belajar coding/sigma practicuem 4",
-      "program": "d:/belajar coding/sigma practicuem 4/build/Debug/outDebug",
+      "cwd": "d:/belajar coding/sigma theory 7",
+      "program": "d:/belajar coding/sigma theory 7/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
